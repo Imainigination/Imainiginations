@@ -1,0 +1,11 @@
+Model Information:
+* title:	Building Cartoon  (Low Poly)
+* source:	https://sketchfab.com/3d-models/building-cartoon-low-poly-e0f9c472e6b8470ba14fd8c600936709
+* author:	youssefjoukeh (https://sketchfab.com/youssefjoukeh)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Building Cartoon  (Low Poly)" (https://sketchfab.com/3d-models/building-cartoon-low-poly-e0f9c472e6b8470ba14fd8c600936709) by youssefjoukeh (https://sketchfab.com/youssefjoukeh) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
